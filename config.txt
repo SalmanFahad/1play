@@ -1,3 +1,5 @@
-token=NDg5NTcxNTA5Njk5MDg0Mjk4.Dru1Lg.cuduhGfaWdzMqwc1UBeRRR_i_Po
+token=NDkzMjY5OTY4OTY5MDA3MTM0.DrNcgQ.fbjMw3YeLxw27sl1SyByZ1OqlSY
 owner=391306171278950401
-prefix=1
+prefix=S
+stayinchannel=true
+songinstatus=true
